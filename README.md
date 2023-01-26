@@ -1,3 +1,6 @@
+Original repository
+https://github.com/jenkinsci/kubernetes-plugin
+
 Kubernetes plugin for Jenkins
 =========================
 
